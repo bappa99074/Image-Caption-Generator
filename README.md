@@ -63,4 +63,4 @@ This project is licensed under the [MIT License](LICENSE)
 
 ## Acknowledgments
 
- - The Image Caption Generator project is built upon the works of several open-source libraries and research papers. We acknowledge the contributions of the research community and the creators of the datasets used in this project.
+ - The Image Caption Generator project is built upon the works of several open-source libraries and research papers. We acknowledge the contributions of the research community and the creators of the datasets used in this project
